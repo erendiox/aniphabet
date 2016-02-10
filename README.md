@@ -5,5 +5,6 @@ Animals by Alphabet
 - Alligator
 
 ## B
+- Blowfish
 
 ## C
